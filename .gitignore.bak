@@ -1,5 +1,12 @@
 
 .local/*
 Output/ExtractedData.xlsx
-
-Output/ExtractedData.xlsx
+Output/
+*.db
+*.cs
+*.json
+*.dll
+*.json
+.screenshots/
+*.xlsx
+*.xlsx

@@ -1,4 +1,11 @@
 
-.local/*
-Output/ExtractedData.xlsx
-Output/*
+.local/
+Output/
+*.db
+*.cs
+*.json
+*.dll
+*.json
+.screenshots/
+*.xlsx
+*.xlsx
