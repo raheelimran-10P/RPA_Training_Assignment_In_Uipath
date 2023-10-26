@@ -1,2 +1,5 @@
 
-.local/.codedworkflows/d6487add23704feea3e391e2d697f8fb/RPA Training Assignment in Uipath.Core.dll
+.local/*
+Output/ExtractedData.xlsx
+
+Output/ExtractedData.xlsx
